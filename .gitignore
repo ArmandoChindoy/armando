@@ -1,3 +1,7 @@
+#Proyecto Config
+webpack.config.js
+dist
+
 # Logs
 logs
 *.log
