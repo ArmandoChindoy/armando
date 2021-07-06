@@ -1,12 +1,11 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
 }
-html{
-    font-size: 62.5%;
+html {
+	font-size: 62.5%;
 }
 
-
-@import "../components/Home.scss";
-@import "../components/NotFound.scss";
+@import '../components/Home.scss';
+@import '../components/NotFound.scss';
